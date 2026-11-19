@@ -36,5 +36,5 @@ I help academic research groups, biotech startups, and clinical R&D teams transf
 Available for project-based bioinformatics consulting, pipeline troubleshooting, and contract R&D support (**English & Spanish**).
 
 - **LinkedIn:** [linkedin.com/in/j-alberto-isidoro-dsk](https://www.linkedin.com/in/j-alberto-isidoro-dsk/)
-- **Upwork / Kolabtree:** *(add profile link here once live)*
+- **Upwork / Kolabtree:** https://www.upwork.com/freelancers/~01cb2652bc2014be27?mp_source=share
 - **Email:** beto7sanchezis@gmail.com
